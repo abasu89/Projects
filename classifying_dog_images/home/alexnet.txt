@@ -1,0 +1,19 @@
+CNN model architecture: alexnet 
+
+Number of images: 40 
+Number of Dog Images: 30 
+Number of Not-a Dog Images: 10
+
+pct_correctly classified dog images: 100.0
+pct_correctly classified non-dog images: 100.0
+pct_correctly classified Dog Breed images:  80.0
+
+Incorrect Dog Breed Assignment:
+Real: golden retriever              Classifier: afghan hound, afghan          
+Real: boston terrier                Classifier: basenji                       
+Real: beagle                        Classifier: english foxhound              
+Real: great pyrenees                Classifier: kuvasz                        
+Real: golden retriever              Classifier: tibetan mastiff               
+Real: beagle                        Classifier: walker hound, walker foxhound 
+
+Total Elapsed Runtime: 0:0:3
